@@ -1,0 +1,49 @@
+* {
+  background-color: #e5e5e5;
+}
+
+.list {
+  list-style: none;
+  margin: -15px;
+  padding-left: 80px;
+}
+
+.list > li {
+  display: inline-block;
+  width: 30%;
+  padding: 30px 15px;
+}
+
+.card {
+  width: 200px;
+  height: 226px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  vertical-align: top;
+  border: 2px solid rgb(85, 85, 85);
+  padding: 0px 35px 96px 35px;
+}
+
+.list img {
+  height: 130px;
+  width: 130px;
+  margin: 0px 35px;
+}
+.card h3 {
+  color: rgb(10, 10, 10);
+  font-weight: bolder;
+  background-color: rgb(255, 255, 255);
+}
+
+.card p {
+  color: rgb(5, 5, 5);
+  font-weight: normal;
+  background-color: rgb(255, 255, 255);
+}
+
+.price {
+  margin-left: 68px;
+  color: crimson;
+  font-weight: bold;
+  background-color: rgb(255, 255, 255);
+}
